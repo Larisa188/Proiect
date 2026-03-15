@@ -1,4 +1,4 @@
-﻿Sa se scrie programul pentru gestionarea stocului si a vanzarilor dintr-un magazin de mercerie. Aplicația trebuie să permită lucrul cu entități precum: Produs (lână, andrele, nasturi), Furnizor și Vânzare.
+Sa se scrie programul pentru gestionarea stocului si a vanzarilor dintr-un magazin de mercerie. Aplicația trebuie să permită lucrul cu entități precum: Produs (lână, andrele, nasturi), Furnizor și Vânzare.
 
 Pentru fiecare tip de lână se vor reține: denumire, compoziție (ex: 100% lână merinos, bumbac), grosime fir, culoare (cod culoare), cantitate în stoc (număr de sculuri/bobine), preț per unitate și producător.
 
